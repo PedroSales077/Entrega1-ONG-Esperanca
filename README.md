@@ -25,19 +25,35 @@ A interface prioriza **design minimalista e responsivo**, garantindo uma navega�
 - 📱 **Design Responsivo** – Adaptado para telas pequenas e grandes.
 
 ## 📂 Estrutura do Projeto
+
 📁 ONG-Esperanca-Viva
+
 │
+
 ├── 📁 assets
+
 │ ├── 📁 css
+
 │ │ └── style.css
+
 │ ├── 📁 js
+
 │ │ └── main.js
+
 │ └── 📁 img
+
 │ └── favicon.png
+
 │
+
 ├── index.html
+
 ├── projetos.html
+
 ├── doacoes.html
+
 ├── voluntario.html
+
 ├── cadastro.html
+
 └── blog.html
